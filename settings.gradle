@@ -1,0 +1,2 @@
+rootProject.name='Xamarin1'
+include ':app'
